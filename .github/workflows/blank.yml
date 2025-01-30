@@ -1,5 +1,4 @@
-
- name: TOOLBOXLAP
+name: TOOLBOXLAP
 
 on:
   workflow_dispatch:
